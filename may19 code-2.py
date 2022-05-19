@@ -13,6 +13,5 @@ for i in range(h):
         p.append(i)
 s=0
 for i in p:
-    print(i)
     s=i+s
 print(s)
